@@ -1,0 +1,7 @@
+Libraries that Needs to be Installed - 
+1. Opencv
+2. scikit-learn
+3. tensorflow
+4. numpy
+5. matplotlib
+6. scipy
